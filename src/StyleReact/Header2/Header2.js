@@ -1,0 +1,12 @@
+import React from 'react';
+import './Header2.css'
+
+const Header2 = () => {
+    return (
+        <div>
+            <h2 className='title'>This is Header2</h2>
+        </div>
+    );
+};
+
+export default Header2;
